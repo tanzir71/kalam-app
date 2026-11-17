@@ -1,0 +1,27 @@
+{
+  "version": "0.3.0",
+  "tag": "v0.3.0",
+  "status": "published",
+  "builtFrom": "028262fbe499",
+  "generatedAt": "2026-11-17T21:58:30.726Z",
+  "assets": [
+    {
+      "kind": "setup",
+      "name": "Kalam-Setup-0.3.0-x64.exe",
+      "bytes": 43052950,
+      "sha256": "adfdd8f583008351b7aa272cca54d767836bf2bf66379398c1d1004717605890"
+    },
+    {
+      "kind": "zip",
+      "name": "kalam-extension-0.3.0-chromium.zip",
+      "bytes": 16690259,
+      "sha256": "f2cf4c65454bbe36a03bfba1b52ffa2861aece3b3fd2c8a65acfc194e6c18176"
+    },
+    {
+      "kind": "xpi",
+      "name": "kalam-extension-0.3.0-firefox-unsigned.xpi",
+      "bytes": 16689936,
+      "sha256": "cd34790b6fd18e8305096a2a67bd880a7c5a0780e4a2324bcce42305e2110416"
+    }
+  ]
+}
