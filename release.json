@@ -2,26 +2,26 @@
   "version": "0.3.0",
   "tag": "v0.3.0",
   "status": "published",
-  "builtFrom": "cdb08ee369dd",
-  "generatedAt": "2026-11-17T23:24:06.456Z",
+  "builtFrom": "f4a95d1a3939",
+  "generatedAt": "2026-11-18T01:18:36.480Z",
   "assets": [
     {
       "kind": "setup",
       "name": "Kalam-Setup-0.3.0-x64.exe",
-      "bytes": 43047743,
-      "sha256": "70b2baea1bf17c4263041096c2d44b19df9909fe9b4c3db8a012a093f2d9792b"
+      "bytes": 47349166,
+      "sha256": "1fb6cca8cf955eced16925246db790546703b397cd003ed8deb1dde201652075"
     },
     {
       "kind": "zip",
       "name": "kalam-extension-0.3.0-chromium.zip",
-      "bytes": 16689893,
-      "sha256": "17cf393d190a3fc889719fada280af00ae88a98931c83919c4a4c89b9029add0"
+      "bytes": 23915118,
+      "sha256": "f523d077404f1e63d52d12b30360b18977ff533d2d6725805cf5bf377aa61109"
     },
     {
       "kind": "xpi",
       "name": "kalam-extension-0.3.0-firefox-unsigned.xpi",
-      "bytes": 16689570,
-      "sha256": "70e749bb9edb263950d0cbc672b664824d9aeacc13505edcedd586d82751f209"
+      "bytes": 23914795,
+      "sha256": "9150836540eced4686b5160a413b94e35e795ce69f9fce61b6eea6b8f16be98f"
     }
   ]
 }

@@ -10,9 +10,9 @@ models on your PC and runs them locally. They talk over native messaging — no 
 
 | File | What it is |
 | --- | --- |
-| [Kalam-Setup-0.3.0-x64.exe](https://github.com/tanzir71/kalam-app/releases/download/v0.3.0/Kalam-Setup-0.3.0-x64.exe) | Kalam for Windows + extension (recommended) — 41.1 MB |
-| [kalam-extension-0.3.0-chromium.zip](https://github.com/tanzir71/kalam-app/releases/download/v0.3.0/kalam-extension-0.3.0-chromium.zip) | Extension only, Chrome & Edge — 15.9 MB |
-| [kalam-extension-0.3.0-firefox-unsigned.xpi](https://github.com/tanzir71/kalam-app/releases/download/v0.3.0/kalam-extension-0.3.0-firefox-unsigned.xpi) | Firefox, experimental, unsigned — 15.9 MB |
+| [Kalam-Setup-0.3.0-x64.exe](https://github.com/tanzir71/kalam-app/releases/download/v0.3.0/Kalam-Setup-0.3.0-x64.exe) | Kalam for Windows + extension (recommended) — 45.2 MB |
+| [kalam-extension-0.3.0-chromium.zip](https://github.com/tanzir71/kalam-app/releases/download/v0.3.0/kalam-extension-0.3.0-chromium.zip) | Extension only, Chrome & Edge — 22.8 MB |
+| [kalam-extension-0.3.0-firefox-unsigned.xpi](https://github.com/tanzir71/kalam-app/releases/download/v0.3.0/kalam-extension-0.3.0-firefox-unsigned.xpi) | Firefox, experimental, unsigned — 22.8 MB |
 
 Models are in the [`models-v1`](https://github.com/tanzir71/kalam-app/releases/tag/models-v1) release and are downloaded by the apps when you ask, with SHA-256 checks.
 
@@ -46,4 +46,4 @@ Developer Edition / Nightly / ESR with `xpinstall.signatures.required=false`.
 
 ## Licences
 
-See [LICENSES/](LICENSES/). Built 2026-11-17 from source commit cdb08ee369dd.
+See [LICENSES/](LICENSES/). Built 2026-11-18 from source commit f4a95d1a3939.
