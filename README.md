@@ -46,4 +46,4 @@ Developer Edition / Nightly / ESR with `xpinstall.signatures.required=false`.
 
 ## Licences
 
-See [LICENSES/](LICENSES/). Built 2026-11-18 from source commit f4a95d1a3939.
+See [LICENSES/](LICENSES/). Built 2026-11-18 from source commit 7a0ab50ad45f.
